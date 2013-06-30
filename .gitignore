@@ -1,0 +1,7 @@
+.env
+*.pyc
+*.egg-info
+*.egg
+cover/*
+.coverage
+rc.jpkl

@@ -1,0 +1,2 @@
+recursive-include recurringchecklist/static *
+recursive-include recurringchecklist/templates *
