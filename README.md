@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/cnelsonsic/recurringchecklist.png?branch=master)](https://travis-ci.org/cnelsonsic/recurringchecklist)
+
 # Recurring Checklist
 A dumb-as-rocks recurring checklist manager.
 
