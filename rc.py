@@ -9,7 +9,7 @@ Then you can flag it as completed, for now.
 
 It will show up in the listing as to be done in its next interval.
 >>> checklist()
-[ ] Scrub toilets (in 13 days.)
+['[ ] Scrub toilets (in 13 days.)']
 
 '''
 
